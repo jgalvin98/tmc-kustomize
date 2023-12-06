@@ -1,0 +1,5 @@
+namePrefix: cg-dev-
+commonLabels:
+  app: my-nginx
+resources:
+- deployment.yaml
