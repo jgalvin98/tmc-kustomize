@@ -1,4 +1,4 @@
-namePrefix: dev-
+namePrefix: prod-
 commonLabels:
   app: my-nginx
 resources:
